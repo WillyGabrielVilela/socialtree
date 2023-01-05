@@ -1,10 +1,10 @@
 <div align="center">
-<img alt="Capa do projeto" src="assets/socialtree.png" width="40%">
+<img alt="Capa do projeto" src="assets/socialtree.png" width="20%">
 </div>
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante o programa Explorer da Rocketseat, consistiu em criar uma página inicial de uma empresa de móveis customizados com HTML e CSS.
+ Desafio consistiu em criar uma página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS.
 
 ## 🚀 Tecnologias
 
