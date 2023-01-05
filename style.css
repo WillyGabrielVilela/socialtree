@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #FAF7FD;
+    text-align: center;
+
+}
+
+body{
+    text-align: center;
+    
+}
+
+.container {
+    width: 50%;
+    
+    margin: 0 auto;
+}
+
+
+
+.main {
+
+    margin-top: 20px;
+}
+
+.imgmain {
+    position: relative;
+    width: 213px;
+    height: 213px;
+    text-align: center;
+
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 50%;
+    padding: 6px;
+
+}
+
+.text {
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 23px;
+    box-sizing: border-box;
+
+}
+
+
+button {
+
+    width: 326px;
+    height: 49px;
+    left: 556px;
+    top: 486px;
+
+
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+    cursor: pointer;
+}
+
+.but{
+    font-weight: 600;
+    }
+
+
+    .icon {
+        margin-top: 68px;
+    }
+
+    .git{
+        margin:0 29px;
+    }
+ 
+
